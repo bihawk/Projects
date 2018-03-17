@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Inferred Dimension", "Inferred Dimension\Inferred Dimension.dtproj", "{CA23294F-C8C1-49FA-8284-A55F156FEB0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Deployment|Default = Deployment|Default
+		Development|Default = Development|Default
+		Prod|Default = Prod|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA23294F-C8C1-49FA-8284-A55F156FEB0C}.Deployment|Default.ActiveCfg = Deployment
+		{CA23294F-C8C1-49FA-8284-A55F156FEB0C}.Deployment|Default.Build.0 = Deployment
+		{CA23294F-C8C1-49FA-8284-A55F156FEB0C}.Development|Default.ActiveCfg = Development
+		{CA23294F-C8C1-49FA-8284-A55F156FEB0C}.Development|Default.Build.0 = Development
+		{CA23294F-C8C1-49FA-8284-A55F156FEB0C}.Prod|Default.ActiveCfg = Prod
+		{CA23294F-C8C1-49FA-8284-A55F156FEB0C}.Prod|Default.Build.0 = Prod
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
